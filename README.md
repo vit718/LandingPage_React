@@ -36,7 +36,7 @@ Built-in feature from Next.js:
 #### 1. Clone repo
 
 ```
-git clone https://github.com/issaafalkattan/react-landing-page-template-2021.git
+git clone https://github.com/vit718/react-landing-page-template-2021.git
 cd react-landing-page-template-2021
 yarn
 ```
@@ -83,13 +83,4 @@ Everyone is welcome to contribute to this project. Feel free to open an issue if
 ### License
 
 Licensed under the MIT License, Copyright © 2021
-  
-
-## Liked this template? <a href="https://www.buymeacoffee.com/issaaf">Buy me a coffee ☕️</a>
-
-
-
-
----
-
-### Looking for v1? <a href="https://github.com/issaafalkattan/React-Landing-Page-Template">V1</a>
+ 
