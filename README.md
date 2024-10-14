@@ -57,7 +57,7 @@ Open <http://localhost:3000> with your favorite browser to see your project.
 
 #### 3. Deploy to production
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fissaafalkattan%2Freact-landing-page-template-2021)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvit718%2Freact-landing-page-template-2021)
 
 ##### Deploy manually
 
